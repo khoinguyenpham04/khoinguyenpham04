@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Noah! My Vietnamese name is Pham Tran Khoi Nguyen 🇻🇳
 - 👀 I’m interested in Full Stack WebDev, AI/ML and Fintech.
 - 🌱 I’m currently learning how to better myself as a SWE.
-- 📫 How to reach me: ptknguyen04@gmail.com
+- 📫 How to reach me: email: ptknguyen04@gmail.com && message through Linkedin: https://www.linkedin.com/in/phamtrankhoinguyen-noah/
 - ⚡ Fun fact: I love playing sports and being active. I play 🏀 ⚽️ 🎱 🏓 ⛳️ 🎳 ♔ and a lot more!
 <!---
 khoinguyenpham04/khoinguyenpham04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
