@@ -9,8 +9,7 @@
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoinguyenpham04&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="KhoiNguyenPham04's Top Languages" style="flex: 1;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoinguyenpham04&theme=tokyonight&hide_border=true" alt="KhoiNguyenPham04's Streak" style="flex: 1;" />
-</div>
+ </div>
 
 <br clear="both">
 
