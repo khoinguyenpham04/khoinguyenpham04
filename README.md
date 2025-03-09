@@ -7,13 +7,10 @@
 
 - ⚡ Fun fact **I love playing sports and being active. I play 🏀 ⚽️ 🎱 🏓 ⛳️ 🎳 ♔ and a lot more!**
 
-<a href="https://github.com/jalliet/github-readme-stats">
-<img height=200 align="center" src="![khoinguyenpham04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=khoinguyenpham04&theme=tokyonight&hide_border=true)" />
-</a>
-&nbsp;
-<a href="https://github.com/jalliet/convoychat">
-  <img height=200 align="center" src="![khoinguyenpham04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khoinguyenpham04&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)" />
-</a>
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoinguyenpham04&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="KhoiNguyenPham04's Top Languages" style="flex: 1;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoinguyenpham04&theme=tokyonight&hide_border=true" alt="KhoiNguyenPham04's Streak" style="flex: 1;" />
+</div>
 
 <br clear="both">
 
