@@ -7,6 +7,17 @@
 
 - ⚡ Fun fact **I love playing sports and being active. I play 🏀 ⚽️ 🎱 🏓 ⛳️ 🎳 ♔ and a lot more!**
 
+<a href="https://github.com/jalliet/github-readme-stats">
+<img height=200 align="center" src="![khoinguyenpham04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=khoinguyenpham04&theme=tokyonight&hide_border=true)" />
+</a>
+&nbsp;
+<a href="https://github.com/jalliet/convoychat">
+  <img height=200 align="center" src="![khoinguyenpham04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khoinguyenpham04&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)" />
+</a>
+
+<br clear="both">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/phamtrankhoinguyen-noah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phamtrankhoinguyen-noah" height="30" width="40" /></a>
