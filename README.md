@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noah! My Vietnamese name is Pham Tran Khoi Nguyen 🇻🇳</h1>
 <h3 align="center">Computer Science Major at The University of Manchester with a deep interest in FinTech and AI/Machine Learning. With a natural curiosity and ability to quickly learn new technologies, I enjoy tackling complex problems and delivering impactful products.</h3>
 
+
 - 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **ptknguyen04@gmail.com**
