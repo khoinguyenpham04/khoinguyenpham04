@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Noah Pham</h1>
-<h3 align="center">Computer Science Major at The University of Manchester. And I love building stuff.</h3>
+<h3 align="center">Computer Science @ The University of Manchester. And I love breaking and building stuff!</h3>
 
 
 - 🌱 I’m currently learning **AI/ML**
