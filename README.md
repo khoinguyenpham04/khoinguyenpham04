@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Noah Pham</h1>
-<h3 align="center">Computer Science Major at The University of Manchester with a deep interest in FinTech and AI/Machine Learning. With a natural curiosity and ability to quickly learn new technologies, I enjoy tackling complex problems and delivering impactful products.</h3>
+<h3 align="center">Computer Science Major at The University of Manchester. And I love building stuff.</h3>
 
 
 - 🌱 I’m currently learning **AI/ML**
