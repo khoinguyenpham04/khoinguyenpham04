@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm Noah Pham</h1>
-<h3 align="center">Computer Science @ The University of Manchester. And I love breaking and building stuff!</h3>
+<h3 align="center">Computer Science @ The University of Manchester. And I love building and breaking stuff!</h3>
+
+<p align="center">
+  <a href="https://noahpham.me">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_my_site-blue?style=for-the-badge" alt="Portfolio Badge"/>
+  </a>
+</p>
 
 
 - 🌱 I’m currently learning **AI/ML**
