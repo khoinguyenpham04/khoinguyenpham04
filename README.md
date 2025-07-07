@@ -7,17 +7,29 @@
   </a>
 </p>
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I'm currently learning **AI/ML**
 
 - 📫 How to reach me **ptknguyen04@gmail.com**
 
 - ⚡ Fun fact **I love playing sports and being active. I play 🏀 ⚽️ 🎱 🏓 ⛳️ 🎳 ♔ and a lot more!**
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoinguyenpham04&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="KhoiNguyenPham04's Top Languages" style="flex: 1;" />
- </div>
+</td>
+<td width="50%" valign="top">
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoinguyenpham04&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"
+    alt="KhoiNguyenPham04's Top Languages"
+  />
+</p>
+
+</td>
+</tr>
+</table>
 <br clear="both">
 
 
