@@ -20,9 +20,7 @@
 </td>
 <td width="50%" valign="top">
 
-<p align="center">
 - 9 Hackathon Wins: 🏆🥇🥉🥇🥇🥇🥈🥇🥈
-</p>
 
 </td>
 </tr>
