@@ -21,10 +21,7 @@
 <td width="50%" valign="top">
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoinguyenpham04&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"
-    alt="KhoiNguyenPham04's Top Languages"
-  />
+- 9 Hackathon Wins: 🏆🥇🥉🥇🥇🥇🥈🥇🥈
 </p>
 
 </td>
