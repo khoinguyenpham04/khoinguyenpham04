@@ -13,8 +13,6 @@
 
 - 9 Hackathon Wins: 🏆🥇🥉🥇🥇🥇🥈🥇🥈
 
-- 🌱 I'm currently learning **AI/ML**
-
 - 📫 How to reach me **ptknguyen04@gmail.com**
 
 - ⚡ Fun fact **I love playing sports and being active. I play 🏀 ⚽️ 🎱 🏓 ⛳️ 🎳 ♔ and a lot more!**
