@@ -11,7 +11,7 @@
 <tr>
 <td width="100%" valign="top">
 
-- 9 Hackathon Wins: 🏆🥇🥉🥇🥇🥇🥈🥇🥈
+- 10 Hackathon Wins: 🏆🥇🥉🥇🥇🥇🥈🥇🥈🥈
 
 - 📫 How to reach me **ptknguyen04@gmail.com**
 
