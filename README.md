@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Noah Pham</h1>
-<h3 align="center">Computer Science @ The University of Manchester. And I love building and breaking stuff!</h3>
+<h3 align="center">Computer Science @ The University of Manchester.</h3>
 
 <p align="center">
   <a href="https://noahpham.me">
