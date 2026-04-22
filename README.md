@@ -7,30 +7,19 @@
   </a>
 </p>
 
-<table>
-<tr>
-<td width="100%" valign="top">
+---
 
-- 10 Hackathon Wins: 🏆🥇🥉🥇🥇🥇🥈🥇🥈🥈
+### About me
 
-- 📫 How to reach me **ptknguyen04@gmail.com**
+- 🏆 **10 Hackathon Wins** 🥇🥇🥇🥇🥇🥇🥈🥈🥈🥉
+- 📫 Reach me at **ptknguyen04@gmail.com**
+- ⚡ Fun fact: I love playing sports and being active. I play 🏀 ⚽️ 🎱 🏓 ⛳️ 🎳 ♔ and a lot more!
 
-- ⚡ Fun fact **I love playing sports and being active. I play 🏀 ⚽️ 🎱 🏓 ⛳️ 🎳 ♔ and a lot more!**
+---
 
-</td>
-</tr>
-</table>
-<br clear="both">
+### Connect with me &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=khoinguyenpham04&style=flat&label=profile+views&color=007bff" alt="Noah Pham Profile Views" align="right"/>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/phamtrankhoinguyen-noah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phamtrankhoinguyen-noah" height="30" width="40" /></a>
-<a href="https://fb.com/trankhoinguyen.pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trankhoinguyen.pham" height="30" width="40" /></a>
-<a href="https://instagram.com/khoinguyen_pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khoinguyen_pham" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@khoinguyen_pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khoinguyen_pham" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khoinguyenpham04&style=plastic&label=PROFILE+VIEWS&color=007bff" alt="Noah Pham Profile Views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phamtrankhoinguyen-noah)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/trankhoinguyen.pham)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khoinguyen_pham)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@khoinguyen_pham)
