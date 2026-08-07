@@ -11,7 +11,7 @@
 
 ### About me
 
-- 🏆 **10 Hackathon Wins** 🥇🥇🥇🥇🥇🥇🥈🥈🥈🥉
+- 🏆 **11 Hackathon Wins** 🥇🥇🥇🥇🥇🥇🥇🥈🥈🥈🥉
 - 📫 Reach me at **ptknguyen04@gmail.com**
 - ⚡ Fun fact: I love playing sports and being active. I play 🏀 ⚽️ 🎱 🏓 ⛳️ 🎳 ♔ and a lot more!
 
