@@ -1,6 +1,6 @@
 # Hi, I'm Noah Pham 👋
 
-Computer Science @ **The University of Manchester**
+Software Engineer Intern @ **Cloudflare** & Computer Science @ **The University of Manchester**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-noahpham.me-24292f?style=for-the-badge&labelColor=57606a)](https://noahpham.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phamtrankhoinguyen-noah)
