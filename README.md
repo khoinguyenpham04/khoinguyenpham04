@@ -1,4 +1,4 @@
-# Hi, I'm Noah Pham 👋
+# Hi, I'm Noah Pham 👋 or Phạm Trần Khôi Nguyên 🇻🇳
 
 Software Engineer Intern @ **Cloudflare** & Computer Science @ **The University of Manchester**
 
